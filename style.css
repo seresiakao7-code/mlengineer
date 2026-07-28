@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+    background-size: 90%;
+    margin-left: 500px;
+    margin-top: 25px;
+}
+.title{
+    border-radius: 25px;
+    text-size-adjust: 25;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    background-color: beige;
+    text-align: center;
+    height: 200px;
+    width: 700px;
+    margin-left: 90px;
+    margin-top: 75px;
+    padding-top: 80px;
+    animation-iteration-count: infinite;
+    cursor: pointer;
+}
