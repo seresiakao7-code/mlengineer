@@ -1,0 +1,18 @@
+    CREATE TABLE customer (
+        id_user PRIMARY,
+        nom CHARACTER
+
+    )
+
+
+  INSERT TO customer(
+    id_user 
+        nom 
+
+  )
+  VALUES(
+    1,"sere"
+  )
+
+  SELECT *
+  FROM customer 

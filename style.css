@@ -1,16 +1,16 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(229, 221, 214);
     background-size: 90%;
-    margin-left: 500px;
+    margin-left: 200px;
     margin-top: 25px;
 }
 .title{
-    border-radius: 25px;
+    border-radius: 25px  ;
     text-size-adjust: 25;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
     font-size: xx-large;
-    background-color: beige;
+    background-color: rgb(242, 153, 97);
     text-align: center;
     height: 200px;
     width: 700px;
@@ -19,4 +19,10 @@ body{
     padding-top: 80px;
     animation-iteration-count: infinite;
     cursor: pointer;
+}
+.article{
+ display: flex;
+ flex-direction: row;
+align-items: flex-end;
+padding: 0%;
 }
